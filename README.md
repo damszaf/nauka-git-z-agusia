@@ -1,1 +1,0 @@
-# nauka-git-z-agusia
